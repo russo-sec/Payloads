@@ -4,7 +4,7 @@
 
 ---
 
-## 📂 Estrutura
+## Estrutura
 
 ```
 Payloads/
@@ -20,7 +20,7 @@ Payloads/
 
 ---
 
-## ⚡ Categorias
+## Categorias
 
 | Categoria | Descrição |
 |---|---|
@@ -35,7 +35,7 @@ Payloads/
 
 ---
 
-## 🛠️ Ferramentas que uso
+## Ferramentas que uso
 
 - `Burp Suite` — interceptação e manipulação de requisições
 - `ffuf` / `dirsearch` — fuzzing de endpoints
@@ -44,14 +44,14 @@ Payloads/
 
 ---
 
-## ⚠️ Aviso Legal
+## Aviso Legal
 
 > Todos os payloads aqui são para uso exclusivo em **ambientes autorizados**, programas de **Bug Bounty** e **CTFs**.  
 > O uso indevido é de responsabilidade exclusiva do usuário.
 
 ---
 
-## 👤 Autor
+## Autor
 
 **nyx11** — [russo-sec](https://github.com/russo-sec)  
 🔗 [pentestly.io](https://pentestly.io)  
